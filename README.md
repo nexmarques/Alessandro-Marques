@@ -19,7 +19,3 @@
 ## 📫 Como me encontrar
 - 🌐 LinkedIn: Alessandro Marques (https://www.linkedin.com/in/alemarques-marques/)
 - ✉️ Email: ale_ec_marques@hotmail.com
-
----
-
-"O aprendizado é um processo contínuo. Cada linha de código escrita hoje é um passo em direção ao futuro." 💡
